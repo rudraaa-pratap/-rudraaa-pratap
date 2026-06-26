@@ -90,7 +90,9 @@ I care about **understanding before using** — no black boxes, no tools stitche
 
 *consistency over everything — every commit counts*
 ### `> contribution_snake`
-<img src="https://raw.githubusercontent.com/rudraaa-pratap/rudraaa-pratap/output/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/rudraaa-pratap/rudraaa-pratap/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</div>
 
 <div align="center">
 
