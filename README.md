@@ -86,8 +86,11 @@ I care about **understanding before using** — no black boxes, no tools stitche
 ---
 
 ### `> trophies`
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=rudraaa-pratap&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%" />
 
 *consistency over everything — every commit counts*
+### `> contribution_snake`
+<img src="https://raw.githubusercontent.com/rudraaa-pratap/rudraaa-pratap/output/github-contribution-grid-snake-dark.svg" />
 
 <div align="center">
 
