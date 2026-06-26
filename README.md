@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Blockchain+Developer;Open+Source+%7C)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ### `> whoami`
