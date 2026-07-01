@@ -74,10 +74,10 @@ I care about **understanding before using** — no black boxes, no tools stitche
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rudraaa-pratap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraaa-pratap&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img src="./profile/github-stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="38%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraaa-pratap&theme=tokyonight&hide_border=true" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=rudraaa-pratap&theme=tokyonight&hide_border=true" width="80%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraaa-pratap&theme=tokyo-night&hide_border=true" width="90%" />
 
@@ -86,18 +86,20 @@ I care about **understanding before using** — no black boxes, no tools stitche
 ---
 
 ### `> trophies`
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=rudraaa-pratap&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%" />
 
-*consistency over everything — every commit counts*
-### `> contribution_snake`
 <div align="center">
-<img src="https://raw.githubusercontent.com/rudraaa-pratap/rudraaa-pratap/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+<!-- Temporarily disabled due to API limits -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=rudraaa-pratap&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%" /> -->
+
 </div>
 
+*consistency over everything — every commit counts*
+
+### `> contribution_snake`
+
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rudraaa-pratap&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="trophies" />
-
+<img src="https://raw.githubusercontent.com/rudraaa-pratap/rudraaa-pratap/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
 ---
